@@ -1,0 +1,31 @@
+@media screen and (max-width:700px){
+  header .container {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 10px;
+  }
+  .botao {
+      margin-top: 5px;
+      width: 300px;
+      
+  }
+  .filme-principal .container .descricao{
+     font-size: 14px;
+  }
+  .filme-principal {
+      height: 450px;
+  }
+  header nav a{
+    margin-left: 5px;
+  }
+  .logo-netflix{
+    width: 95.5px;
+    height: 25px;
+    margin-right: 30px;
+}
+}
+@media screen and (min-width:1000px){
+    .descricao {
+        width: 50%;
+    }
+}
