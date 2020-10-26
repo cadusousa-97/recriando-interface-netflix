@@ -43,7 +43,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal {
     font-size: 20px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(/resources/capa-dark.jpg);
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(https://image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg);
     height: 800px;
     background-size: cover;
     display: flex;
